@@ -1,0 +1,11 @@
+{
+    "name": "base",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "prettier:fix": "prettier --write \"**/*.{html,css,js,json,md}\""
+    },
+    "devDependencies": {
+        "prettier": "^3.2.5"
+    }
+}
